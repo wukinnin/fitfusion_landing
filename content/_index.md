@@ -22,7 +22,8 @@ description: "Immersive fitness realities enhancing engagement, through augmente
 # Link cards
 links:
   - href: "https://your.site"
-    icon: "fas fa-download"
+    # icon: "fas fa-download"
+    icon: "fa-brands fa-android"
     title: "Download App (.APK)"
     description: "For Android 10+ | ARM64 Release Build"
   # - href: "https://blog.your.site"
