@@ -21,7 +21,7 @@ description: "Immersive fitness realities enhancing engagement, through augmente
 
 # Link cards
 links:
-  - href: "https://your.site"
+  - href: "/fitfusion-game-app-arm64-v8a-release.apk"
     # icon: "fas fa-download"
     icon: "fa-brands fa-android"
     title: "Free APK Download"
