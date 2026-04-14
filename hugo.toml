@@ -1,6 +1,6 @@
 baseURL      = "https://yourdomain.com/"
 languageCode = "en-us"
-title        = "FitFusion"
+title        = "FitFusion Game"
 theme        = "LucentLink-Hugo"
 minVersion   = "0.115.0"
 

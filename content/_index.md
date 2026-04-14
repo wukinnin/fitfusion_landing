@@ -24,7 +24,7 @@ links:
   - href: "https://your.site"
     # icon: "fas fa-download"
     icon: "fa-brands fa-android"
-    title: "Download App (.APK)"
+    title: "Free APK Download"
     description: "For Android 10+ | ARM64 Release Build"
   # - href: "https://blog.your.site"
   #   icon: "fas fa-blog"
@@ -66,18 +66,14 @@ links:
 messaging:
   title: "Game Features"
   items:
+  
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: "Please include context about why you're reaching out and how I can help."
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "For collaboration requests, include details about the project scope and timeline."
-    - icon: "fas fa-check-circle"
-      color: "text-green-400"
-      text: "I typically respond within 2-3 business days for professional inquiries."
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. V"
+    
     - icon: "fas fa-times-circle"
       color: "text-red-400"
-      text: "Please don't send unsolicited sales pitches or recruitment messages."
+      text: "Vivamus auctor sem ac risus congue, aliquam imperdiet neque congue."
 
 
 #  REMOVE "How to Customize This Page" section by removing the line "{{ partial "Instructions.html" . }}" in index.html file under layouts/
