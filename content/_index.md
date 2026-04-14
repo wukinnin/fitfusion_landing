@@ -25,7 +25,7 @@ links:
     # icon: "fas fa-download"
     icon: "fa-brands fa-android"
     title: "Free APK Download"
-    description: "For Android 10+ | ARM64 Release Build"
+    description: "Android 10+ ARM64 Release Build (2026-04-15)"
   # - href: "https://blog.your.site"
   #   icon: "fas fa-blog"
   #   title: "My Blog"
