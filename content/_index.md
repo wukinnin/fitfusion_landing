@@ -69,15 +69,21 @@ messaging:
   
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. V"
-    
-    - icon: "fas fa-times-circle"
-      color: "text-red-400"
-      text: "Vivamus auctor sem ac risus congue, aliquam imperdiet neque congue."
+      text: "Your body is the controller! Use your phone's camera to play the very game."
 
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: "Work out to level up! Build healthy habits by having fun playing a video game while exercising."
+
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: "Conquer the Competition! Become the very best by making your way to the #1 spot."
+
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: "Witness your success! See how far you've come and know you did better than yesterday."
 
 #  REMOVE "How to Customize This Page" section by removing the line "{{ partial "Instructions.html" . }}" in index.html file under layouts/
-
 
 # About section (optional section)
 
