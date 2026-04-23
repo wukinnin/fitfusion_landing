@@ -21,11 +21,11 @@ description: "Immersive fitness realities enhancing engagement, through augmente
 
 # Link cards
 links:
-  - href: "/fitfusion-game-app-arm64-v8a-release-2026-04-22.apk"
+  - href: "/fitfusion-game-app-arm64-v8a-release-2026-04-23.apk"
     # icon: "fas fa-download"
     icon: "fa-brands fa-android"
     title: "Free APK Download"
-    description: "Android 10+ ARM64 Release Build (2026-04-22)"
+    description: "Android 10+ ARM64 Release Build (2026-04-23)"
   # - href: "https://blog.your.site"
   #   icon: "fas fa-blog"
   #   title: "My Blog"
